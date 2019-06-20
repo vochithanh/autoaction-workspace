@@ -1,0 +1,12 @@
+Open Google account signup
+Input firstname First Name
+Input lastname Last Name
+Input accountname Username
+Input userpassword Password
+Input userpassword Confirm
+Click Next
+Wait 4
+Input userphone Phone
+Click Next
+Wait 3
+Verify this phone number format

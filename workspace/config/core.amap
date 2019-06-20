@@ -1,0 +1,11 @@
+Click = sln.app.action.form.ActionClick
+Input = sln.app.action.form.ActionInput
+Search = sln.app.action.form.ActionSearch
+
+Open = sln.app.action.nav.ActionOpen
+Tab = sln.app.action.nav.ActionTab
+
+Close = sln.app.action.verify.ActionClose
+Wait = sln.app.action.verify.ActionWait
+Verify = sln.app.action.verify.ActionVerify
+

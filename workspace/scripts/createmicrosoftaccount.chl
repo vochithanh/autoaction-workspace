@@ -1,0 +1,20 @@
+Open Microsoft account signup
+Wait 3
+Click Get a new email address
+Wait 4
+Input accountname New email
+Click Next Button
+Wait 3
+Input userpassword PasswordInput
+Click Next Button
+Wait 3
+Input firstname First name
+Input lastname Last name
+Click Next Button
+Wait 4
+Input February Month
+Input 1 Day
+Input 1999 Year
+Click Next Button
+Wait 3
+Verify make sure a real person is creating this account
