@@ -6,6 +6,7 @@ Input accountname New email
 Click Next Button
 Wait 3
 Input userpassword PasswordInput
+Click Show password
 Click Next Button
 Wait 3
 Input firstname First name
