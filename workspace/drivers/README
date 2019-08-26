@@ -1,1 +1,5 @@
-Should put browser driver here, e.g. geckodriver.exe
+Should put browser drivers here:
+Browser, browser string, driver filename
+Firefox, firefox, geckodriver.exe
+Chrome, chrome, chromedriver.exe
+Edge, edge, MicrosoftWebDriver.exe
